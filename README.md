@@ -2,7 +2,7 @@
 - 👀 I’m interested in "WEB DEVELOPMENT & AI"
 - 🌱 I’m currently learning "WEB DEVELOPMENT"
 - 💞️ I’m looking to collaborate on "WEB DEVELOPMENT PROJECTS"
-- 📫 You can reach me at "maruf.nightwalker@gmail.com"
+- 📫 You can reach me at "md.muktadirul.haque.maruf@gmail.com"
 
 <!---
 M-H-Maruf/M-H-Maruf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
