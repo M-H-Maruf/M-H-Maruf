@@ -2,6 +2,15 @@
 <img src="https://raw.githubusercontent.com/M-H-Maruf/M-H-Maruf/main/images/A%20WEB%20DEVELOPER.gif" />
 </a>
 
+## 🚀 About me
+
+<br />
+
+<p>
+Greetings! I'm a committed full-stack developer with a vision to craft transformative digital experiences. In the dynamic world of web development, I seamlessly blend creativity and functionality to build applications that make a lasting impact. My passion lies in creating responsive and feature-rich solutions, utilizing technologies like React, Next.js, and Tailwind CSS for captivating front-end experiences. On the backend, I leverage the MERN (MongoDB, Express.js, React, Node.js) stack to architect robust and scalable solutions. Embracing a holistic approach, my goal is to bring innovative ideas to life, ensuring a seamless user experience from concept to execution. Explore some highlights from my portfolio below:
+</p>
+
+
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
@@ -37,7 +46,7 @@
 
 <br />
 
-<p align="center">
+<p>
 As a skilled full-stack developer, I thrive in the dynamic realm of web development, seamlessly blending creativity and functionality. With expertise spanning the entire stack, I specialize in crafting responsive and feature-rich applications. From the front end, I harness the power of technologies like React, Next.js, and Tailwind CSS to deliver sleek and intuitive user interfaces. On the backend, I leverage the MERN (MongoDB, Express.js, React, Node.js) stack to architect robust and scalable solutions. Through this holistic approach, I bring ideas to life, ensuring a seamless user experience from start to finish. Here are some of my works:
 </p>
 
