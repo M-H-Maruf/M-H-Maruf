@@ -41,28 +41,28 @@
 As a skilled full-stack developer, I thrive in the dynamic realm of web development, seamlessly blending creativity and functionality. With expertise spanning the entire stack, I specialize in crafting responsive and feature-rich applications. From the front end, I harness the power of technologies like React, Next.js, and Tailwind CSS to deliver sleek and intuitive user interfaces. On the backend, I leverage the MERN (MongoDB, Express.js, React, Node.js) stack to architect robust and scalable solutions. Through this holistic approach, I bring ideas to life, ensuring a seamless user experience from start to finish. Here are some of my works:
 </p>
 
-<br /><br /><br />
+<br />
 
 <p align="center">
   <a href="https://m-h-maruf-health-hub.surge.sh/">
     <img height="75" src="https://i.postimg.cc/GhV7qfWX/health-hub.png" alt="Health Hub">
   </a>
   <br>
-  Health Hub - A wellness platform providing personalized health insights and resources.
+  Health Hub<br />A wellness platform providing personalized health insights and resources. It is a role based medical camp management system integrated with stripe.
   <br><br>
 
   <a href="https://m-h-maruf-creative-chronicles.surge.sh/">
     <img height="75" src="https://i.postimg.cc/8kynrctQ/creative-chronicles.png" alt="Creative Chronicles">
   </a>
   <br>
-  Creative Chronicles - Unleashing creativity through a collection of inspiring stories and projects.
+  Creative Chronicles<br />Unleashing creativity through a collection of inspiring stories and projects. It is a user specific blog site with user based actions.
   <br><br>
 
   <a href="https://m-h-maruf-brand-shop.surge.sh/">
     <img height="75" src="https://i.postimg.cc/Vkt7TR1m/nexus.png" alt="Brand Shop">
   </a>
   <br>
-  Brand Shop - Elevate your style with curated collections from our exclusive brand showcase.
+  Brand Shop<br />Elevate your style with curated collections from our exclusive brand showcase. It is a brand specific shop with firebase authentication and dedicated MERN server.
 </p>
 
 
