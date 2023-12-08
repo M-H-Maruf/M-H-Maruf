@@ -1,10 +1,9 @@
-- 👋 Hi, I’m "M. H. MARUF"
-- 👀 I’m interested in "WEB DEVELOPMENT & AI"
-- 🌱 I’m currently learning "WEB DEVELOPMENT"
-- 💞️ I’m looking to collaborate on "WEB DEVELOPMENT PROJECTS"
-- 📫 You can reach me at "md.muktadirul.haque.maruf@gmail.com"
+## :eyes: Current overview
 
-<!---
-M-H-Maruf/M-H-Maruf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### 👀 I'm passionate about Web Development and AI.
+### 🌱 Currently learning and exploring Redux.
+### 💼 Actively seeking opportunities as a Web Developer.
+### 👯 Open to collaboration on exciting web projects.
+### 💬 Ask me about anything related to Web Development.
+### 📫 Reach me at md.muktadirul.haque.maruf@gmail.com.
