@@ -7,11 +7,23 @@
 <br />
 <p align="center">
 <a href="https://git.io/streak-stats">
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=M-H-MARUF&theme=prussian&hide_border=true&border_radius=5&background=45%2C000000%2C525251" alt="GitHub Streak" />
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=M-H-MARUF&theme=prussian&hide_border=true&border_radius=5&background=45%2C000000%2C363635" alt="GitHub Streak" />
 </a>
 </p>
 
+## :computer: Technologies that I know
+
+<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,nodejs,figma,tailwind,vercel,nextjs&perline=5" />
+  </a>
+</p>
+<br/>
+
 ## :eyes: Current overview
+
+<br />
 
 ### 👀 I'm passionate about Web Development and AI.
 ### 🌱 Currently learning and exploring Redux.
