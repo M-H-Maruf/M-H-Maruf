@@ -29,9 +29,7 @@
   </a>
 </p>
 
-
 <br />
-
 
 ## :mailbox: My work
 
@@ -53,21 +51,18 @@ As a skilled full-stack developer, I thrive in the dynamic realm of web developm
   &nbsp;&nbsp;&nbsp;
   <a href="https://m-h-maruf-creative-chronicles.surge.sh/">
     <figure>
-<figcaption>HEALTH HUB</figcaption>
-    </figure><img height="75" src="https://i.postimg.cc/8kynrctQ/creative-chronicles.png"><figure>
-<figcaption>HEALTH HUB</figcaption>
+        <img height="75" src="https://i.postimg.cc/8kynrctQ/creative-chronicles.png">
+        <figcaption>HEALTH HUB</figcaption>
     </figure>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://m-h-maruf-brand-shop.surge.sh/">
     <figure>
-<figcaption>HEALTH HUB</figcaption>
-    </figure><img height="75" src="https://i.postimg.cc/Vkt7TR1m/nexus.png"><figure>
-<figcaption>HEALTH HUB</figcaption>
+        <img height="75" src="https://i.postimg.cc/Vkt7TR1m/nexus.png">
+        <figcaption>HEALTH HUB</figcaption>
     </figure>
   </a>
 </p>
-
 
 <br />
 
@@ -82,14 +77,20 @@ As a skilled full-stack developer, I thrive in the dynamic realm of web developm
 <br/>
 
 ## :eyes: Current overview
+
 <br />
 <div align="left">
 <a href="https://app.daily.dev/mir"><img align="right" src="https://raw.githubusercontent.com/M-H-Maruf/M-H-Maruf/main/images/devCard.png"width="200" alt="M  H Maruf's Dev Card"/></a>
 </div>
 
 ### 👀 I'm passionate about Web Development and AI.
+
 ### 🌱 Currently learning and exploring Redux.
+
 ### 💼 Actively seeking opportunities as a Web Developer.
+
 ### 👯 Open to collaboration on exciting web projects.
+
 ### 💬 Ask me about anything related to Web Development.
+
 ### 📫 Reach me at md.muktadirul.haque.maruf@gmail.com.
