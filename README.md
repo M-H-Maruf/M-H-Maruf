@@ -48,21 +48,27 @@ As a skilled full-stack developer, I thrive in the dynamic realm of web developm
     <img height="75" src="https://i.postimg.cc/GhV7qfWX/health-hub.png" alt="Health Hub">
   </a>
   <br>
-  Health Hub<br />A wellness platform providing personalized health insights and resources. It is a role based medical camp management system integrated with stripe.
+  <h6>Health Hub</h6>
+  <br />
+  A wellness platform providing personalized health insights and resources. It is a role based medical camp management system integrated with stripe.
   <br><br>
 
   <a href="https://m-h-maruf-creative-chronicles.surge.sh/">
     <img height="75" src="https://i.postimg.cc/8kynrctQ/creative-chronicles.png" alt="Creative Chronicles">
   </a>
   <br>
-  Creative Chronicles<br />Unleashing creativity through a collection of inspiring stories and projects. It is a user specific blog site with user based actions.
+  <h6>Creative Chronicles</h6>
+  <br />
+  Unleashing creativity through a collection of inspiring stories and projects. It is a user specific blog site with user based actions.
   <br><br>
 
   <a href="https://m-h-maruf-brand-shop.surge.sh/">
     <img height="75" src="https://i.postimg.cc/Vkt7TR1m/nexus.png" alt="Brand Shop">
   </a>
   <br>
-  Brand Shop<br />Elevate your style with curated collections from our exclusive brand showcase. It is a brand specific shop with firebase authentication and dedicated MERN server.
+  <h6>Brand Shop</h6>
+  <br />
+  Elevate your style with curated collections from our exclusive brand showcase. It is a brand specific shop with firebase authentication and dedicated MERN server.
 </p>
 
 
