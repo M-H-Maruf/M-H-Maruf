@@ -32,6 +32,34 @@
 
 <br />
 
+
+## :mailbox: My work
+
+<br />
+
+<p align="center">
+As a skilled full-stack developer, I thrive in the dynamic realm of web development, seamlessly blending creativity and functionality. With expertise spanning the entire stack, I specialize in crafting responsive and feature-rich applications. From the front end, I harness the power of technologies like React, Next.js, and Tailwind CSS to deliver sleek and intuitive user interfaces. On the backend, I leverage the MERN (MongoDB, Express.js, React, Node.js) stack to architect robust and scalable solutions. Through this holistic approach, I bring ideas to life, ensuring a seamless user experience from start to finish. Here are some of my works:
+</p>
+
+<br /><br /><br />
+
+<p align="center">
+  <a href="https://m-h-maruf-health-hub.surge.sh/">
+    <img height="75" src="https://i.postimg.cc/GhV7qfWX/health-hub.png">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://m-h-maruf-creative-chronicles.surge.sh/">
+    <img height="75" src="https://i.postimg.cc/8kynrctQ/creative-chronicles.png">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://m-h-maruf-brand-shop.surge.sh/">
+    <img height="75" src="https://i.postimg.cc/Vkt7TR1m/nexus.png">
+  </a>
+</p>
+
+
+<br />
+
 ## :computer: Technologies that I know
 
 <br />
