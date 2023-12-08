@@ -29,7 +29,9 @@
   </a>
 </p>
 
+
 <br />
+
 
 ## :mailbox: My work
 
@@ -43,26 +45,26 @@ As a skilled full-stack developer, I thrive in the dynamic realm of web developm
 
 <p align="center">
   <a href="https://m-h-maruf-health-hub.surge.sh/">
-    <figure>
-        <img height="75" src="https://i.postimg.cc/GhV7qfWX/health-hub.png">
-        <figcaption>HEALTH HUB</figcaption>
-    </figure>
+    <img height="75" src="https://i.postimg.cc/GhV7qfWX/health-hub.png" alt="Health Hub">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  <br>
+  Health Hub - A wellness platform providing personalized health insights and resources.
+  <br><br>
+
   <a href="https://m-h-maruf-creative-chronicles.surge.sh/">
-    <figure>
-        <img height="75" src="https://i.postimg.cc/8kynrctQ/creative-chronicles.png">
-        <figcaption>HEALTH HUB</figcaption>
-    </figure>
+    <img height="75" src="https://i.postimg.cc/8kynrctQ/creative-chronicles.png" alt="Creative Chronicles">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  <br>
+  Creative Chronicles - Unleashing creativity through a collection of inspiring stories and projects.
+  <br><br>
+
   <a href="https://m-h-maruf-brand-shop.surge.sh/">
-    <figure>
-        <img height="75" src="https://i.postimg.cc/Vkt7TR1m/nexus.png">
-        <figcaption>HEALTH HUB</figcaption>
-    </figure>
+    <img height="75" src="https://i.postimg.cc/Vkt7TR1m/nexus.png" alt="Brand Shop">
   </a>
+  <br>
+  Brand Shop - Elevate your style with curated collections from our exclusive brand showcase.
 </p>
+
 
 <br />
 
@@ -77,20 +79,14 @@ As a skilled full-stack developer, I thrive in the dynamic realm of web developm
 <br/>
 
 ## :eyes: Current overview
-
 <br />
 <div align="left">
 <a href="https://app.daily.dev/mir"><img align="right" src="https://raw.githubusercontent.com/M-H-Maruf/M-H-Maruf/main/images/devCard.png"width="200" alt="M  H Maruf's Dev Card"/></a>
 </div>
 
 ### 👀 I'm passionate about Web Development and AI.
-
 ### 🌱 Currently learning and exploring Redux.
-
 ### 💼 Actively seeking opportunities as a Web Developer.
-
 ### 👯 Open to collaboration on exciting web projects.
-
 ### 💬 Ask me about anything related to Web Development.
-
 ### 📫 Reach me at md.muktadirul.haque.maruf@gmail.com.
