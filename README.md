@@ -52,17 +52,22 @@ As a skilled full-stack developer, I thrive in the dynamic realm of web developm
   <br />
   <p align = "center">A wellness platform providing personalized health insights and resources. It is a role based medical camp management system integrated with stripe.</p>
   <br><br>
+</p>
 
-  <a align="center" href="https://m-h-maruf-creative-chronicles.surge.sh/">
+<p align="center">
+  <a href="https://m-h-maruf-creative-chronicles.surge.sh/">
     <img height="75" src="https://i.postimg.cc/8kynrctQ/creative-chronicles.png" alt="Creative Chronicles">
   </a>
+
   <br>
   <h3 align="center">Creative Chronicles</h6>
   <br />
   <p align = "center">Unleashing creativity through a collection of inspiring stories and projects. It is a user specific blog site with user based actions.</p>
   <br><br>
+</p>
 
-  <a align="center" href="https://m-h-maruf-brand-shop.surge.sh/">
+<p align="center">
+  <a href="https://m-h-maruf-brand-shop.surge.sh/">
     <img height="75" src="https://i.postimg.cc/Vkt7TR1m/nexus.png" alt="Brand Shop">
   </a>
   <br>
