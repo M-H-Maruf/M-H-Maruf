@@ -52,11 +52,19 @@ As a skilled full-stack developer, I thrive in the dynamic realm of web developm
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://m-h-maruf-creative-chronicles.surge.sh/">
-    <img height="75" src="https://i.postimg.cc/8kynrctQ/creative-chronicles.png">
+    <figure>
+<figcaption>HEALTH HUB</figcaption>
+    </figure><img height="75" src="https://i.postimg.cc/8kynrctQ/creative-chronicles.png"><figure>
+<figcaption>HEALTH HUB</figcaption>
+    </figure>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://m-h-maruf-brand-shop.surge.sh/">
-    <img height="75" src="https://i.postimg.cc/Vkt7TR1m/nexus.png">
+    <figure>
+<figcaption>HEALTH HUB</figcaption>
+    </figure><img height="75" src="https://i.postimg.cc/Vkt7TR1m/nexus.png"><figure>
+<figcaption>HEALTH HUB</figcaption>
+    </figure>
   </a>
 </p>
 
