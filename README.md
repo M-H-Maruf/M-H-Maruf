@@ -45,7 +45,10 @@ As a skilled full-stack developer, I thrive in the dynamic realm of web developm
 
 <p align="center">
   <a href="https://m-h-maruf-health-hub.surge.sh/">
-    <img height="75" src="https://i.postimg.cc/GhV7qfWX/health-hub.png">
+    <figure>
+        <img height="75" src="https://i.postimg.cc/GhV7qfWX/health-hub.png">
+        <figcaption>HEALTH HUB</figcaption>
+    </figure>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://m-h-maruf-creative-chronicles.surge.sh/">
