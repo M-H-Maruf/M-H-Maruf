@@ -15,7 +15,14 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://i.postimg.cc/MTDhvYr1/linked-in.png">](https://www.linkedin.com/in/md-muktadirul-haque-maruf/)[<img height="75" src="https://i.postimg.cc/L5QwV8SX/facebook.png">](https://www.facebook.com/profile.php?id=100093927973127)[<img height="75" src="https://i.postimg.cc/NFjZTrWS/mail.png"></p>](mailto:md.muktadirul.haque.maruf@gmail.com)
+<p align="center">
+  [<img height="75" src="https://i.postimg.cc/MTDhvYr1/linked-in.png">](https://www.linkedin.com/in/md-muktadirul-haque-maruf)
+  &nbsp;&nbsp;&nbsp;
+  [<img height="75" src="https://i.postimg.cc/L5QwV8SX/facebook.png">](https://www.facebook.com/profile.php?id=100093927973127)
+  &nbsp;&nbsp;&nbsp;
+  [<img height="75" src="https://i.postimg.cc/NFjZTrWS/mail.png">](mailto:md.muktadirul.haque.maruf@gmail.com)
+</p>
+
 
 
 <br />
