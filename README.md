@@ -45,31 +45,31 @@ As a skilled full-stack developer, I thrive in the dynamic realm of web developm
 
 <p align="center">
   <a href="https://m-h-maruf-health-hub.surge.sh/">
-    <img height="150" src="https://i.postimg.cc/GhV7qfWX/health-hub.png" alt="Health Hub">
+    <img height="150" src="https://i.postimg.cc/RC79Kc26/health-hub.png" alt="Health Hub">
   </a>
   <br>
-  <h3 align="center">Health Hub</h6>
+  <strong><h3 align="center">Health Hub</h3></strong>
   <p align = "center">A wellness platform providing personalized health insights and resources. It is a role based medical camp management system integrated with stripe.</p>
   <br><br>
 </p>
 
 <p align="center">
   <a href="https://m-h-maruf-creative-chronicles.surge.sh/">
-    <img height="150" src="https://i.postimg.cc/8kynrctQ/creative-chronicles.png" alt="Creative Chronicles">
+    <img height="150" src="https://i.postimg.cc/VLzwRJc7/creative-chronicles.png" alt="Creative Chronicles">
   </a>
 
   <br>
-  <h3 align="center">Creative Chronicles</h6>
+  <strong><h3 align="center">Creative Chronicles</h3></strong>
   <p align = "center">Unleashing creativity through a collection of inspiring stories and projects. It is a user specific blog site with user based actions.</p>
   <br><br>
 </p>
 
 <p align="center">
   <a href="https://m-h-maruf-brand-shop.surge.sh/">
-    <img height="150" src="https://i.postimg.cc/Vkt7TR1m/nexus.png" alt="Brand Shop">
+    <img height="150" src="https://i.postimg.cc/ZKjSDJbJ/nexus.png" alt="Brand Shop">
   </a>
   <br>
-  <h3 align="center">Brand Shop</h6>
+  <strong><h3 align="center">NEXUS</h3></strong>
   <p align = "center">Elevate your style with curated collections from our exclusive brand showcase. It is a brand specific shop with firebase authentication and dedicated MERN server.</p>
 </p>
 
