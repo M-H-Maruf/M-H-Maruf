@@ -15,15 +15,17 @@
 
 <br />
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://m-h-maruf.vercel.app/">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,nodejs,figma,tailwind,vercel,nextjs,atom,bootstrap,codepen,discord,express,firebase,github,linkedin,instagram,materialui,mongodb,postman,py,react,replit,stackoverflow,vite,vscode&perline=5" />
   </a>
 </p>
 <br/>
 
 ## :eyes: Current overview
-
 <br />
+<div align="left">
+<a href="https://app.daily.dev/mir"><img align="right" src="https://raw.githubusercontent.com/M-H-Maruf/M-H-Maruf/main/images/devCard.png"width="200" alt="M  H Maruf's Dev Card"/></a>
+</div>
 
 ### 👀 I'm passionate about Web Development and AI.
 ### 🌱 Currently learning and exploring Redux.
