@@ -2,6 +2,14 @@
 <img src="https://raw.githubusercontent.com/M-H-Maruf/M-H-Maruf/main/images/A%20WEB%20DEVELOPER.gif" />
 </a>
 
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p style="text-align: center;">
+<a href="https://git.io/streak-stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=M-H-MARUF&theme=dark&hide_border=true&border_radius=5&background=45%2C000000%2C525251" alt="GitHub Streak" />
+</a>
+</p>
 
 ## :eyes: Current overview
 
